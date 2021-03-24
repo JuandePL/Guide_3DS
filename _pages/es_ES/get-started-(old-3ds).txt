@@ -13,7 +13,7 @@ La versión de tu consola puede verse en la esquina inferior derecha de la panta
 ![]({{ "/images/screenshots/system-version.png" | absolute_url }})
 {: .notice--info}
 
-While we believe that custom firmware is safe for online use, there have been online network bans in the past, primarily for cheating and suspicious eShop behavior.
+Si bien creemos que el firmware personalizado es seguro para su uso en línea, ha habido prohibiciones online en el pasado, principalmente por trampas y comportamientos sospechosos de eShop.
 {: .notice--warning}
 
 ### Tabla de versiones
