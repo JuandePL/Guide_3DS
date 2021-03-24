@@ -6,16 +6,16 @@ title: "Comencemos"
 
 ### Lectura requerida
 
-If you have hacked your 3DS in the past, or you purchased your 3DS second-hand, it is possible that your console already has custom firmware. You should [check for CFW](checking-for-cfw) before proceeding.
+Si ha pirateado su 3DS en el pasado, o compró su 3DS de segunda mano, es posible que su consola ya tenga firmware personalizado. Debe [verificar CFW] (checking-for-cfw) antes de continuar.
 {: .notice--warning}
 
-Different device models, versions, and regions will require different steps to achieve the end goal of boot9strap powered Custom Firmware. This page will help you find where to start for your device.
+Los diferentes modelos de dispositivos, versiones y regiones requerirán diferentes pasos para lograr el objetivo final del firmware personalizado impulsado por boot9strap. Esta página le ayudará a encontrar por dónde empezar para su dispositivo.
 
-The colors of the devices in the image may vary, but note the button placement and features of each device carefully to ensure you select the correct one.
+Los colores de los dispositivos en la imagen pueden variar, pero tenga en cuenta la ubicación de los botones y las características de cada dispositivo para asegurarse de seleccionar el correcto.
 
 
-Click the image of your device to take you to the appropriate page.
+Haga clic en la imagen de su dispositivo para que lo lleve a la página apropiada.
 
-| New 3DS or New 2DS | Old 3DS or Old 2DS |
+| New 3DS o New 2DS | Old 3DS o Old 2DS |
 |:-:|:-:|
 | [![New 3DS](/images/new3ds.png)](get-started-(new-3ds)) &nbsp;&nbsp; [![New 3DS XL](/images/new3dsxl.png)](get-started-(new-3ds)) <br><br> [![New 2DS XL](/images/new2dsxl.png)](get-started-(new-3ds)) | [![Old 3DS](/images/old3ds.png)](get-started-(old-3ds)) &nbsp;&nbsp; [![Old 3DS XL](/images/old3dsxl.png)](get-started-(old-3ds)) <br><br> [![2DS](/images/2ds.png)](get-started-(old-3ds)) |
